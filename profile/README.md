@@ -90,7 +90,7 @@ Deutsche Übersetzung von William Shotts' *The Linux Command Line*, gepflegt von
 
 ### tech3ventz.ch
 
-Öffentlicher Jahreskalender für Hacker-, Maker-, Retro-, Coding- und weitere Tech-Events in der Schweiz und Umgebung.
+Öffentlicher Jahreskalender für Hacker-, Maker-, Retro-, Coding- und weitere Tech-Events in der Schweiz und Umgebung, gepflegt von [marukitano](https://github.com/marukitano).
 
 🌐 **Live:** https://tech3ventz.ch/  
 💾 **Repository:** https://github.com/marukitano/tech3ventz.ch
