@@ -76,9 +76,6 @@ Leuchtende elektronische Visitenkarten für verschiedene Anlässe.
 
 CMS für LAN-Partys mit Anmeldung, Sitzplan, Turnieren, Kassenverwaltung und weiteren Funktionen.
 
-## Extern gepflegte Projekte
-
-Manche Projekte aus dem Odenwilusenz-Umfeld werden von Mitgliedern eigenständig weiterentwickelt.
 
 ### The Linux Command Line – German Translation
 
