@@ -26,6 +26,7 @@ Hier sammeln wir Projekte, Experimente, Hardware, Software und Dokumentation aus
 Manche Projekte aus dem Odenwilusenz-Umfeld werden von Mitgliedern eigenständig weiterentwickelt.
 
 - [The Linux Command Line – German Translation](https://github.com/marukitano/The_Linux_Command_Line_-_William_Shotts_German_translation_by_maru) — Deutsche Übersetzung von William Shotts' *The Linux Command Line*, gepflegt von [marukitano](https://github.com/marukitano).
+- [tech3ventz.ch](https://tech3ventz.ch/) — Öffentlicher Jahreskalender für Hacker-, Maker-, Retro-, Coding- und weitere Tech-Events in der Schweiz und Umgebung. Der Quellcode wird von [marukitano](https://github.com/marukitano/tech3ventz.ch) gepflegt.
 
 ---
 
