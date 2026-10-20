@@ -29,6 +29,8 @@ Manche Projekte aus dem Odenwilusenz-Umfeld werden von Mitgliedern eigenständig
 
 Deutsche Übersetzung von William Shotts' *The Linux Command Line*, gepflegt von [marukitano](https://github.com/marukitano).
 
+🌐 **Webversion:** https://marukitano.github.io/The_Linux_Command_Line_-_William_Shotts_German_translation_by_maru/  
+📄 **PDF:** https://marukitano.github.io/The_Linux_Command_Line_-_William_Shotts_German_translation_by_maru/The-Linux-Command-Line-DE.pdf  
 💾 **Repository:** https://github.com/marukitano/The_Linux_Command_Line_-_William_Shotts_German_translation_by_maru
 
 ### tech3ventz.ch
