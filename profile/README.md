@@ -76,6 +76,7 @@ Leuchtende elektronische Visitenkarten für verschiedene Anlässe.
 
 CMS für LAN-Partys mit Anmeldung, Sitzplan, Turnieren, Kassenverwaltung und weiteren Funktionen.
 
+---
 
 ### The Linux Command Line – German Translation
 
