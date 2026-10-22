@@ -80,6 +80,10 @@ CMS für LAN-Partys mit Anmeldung, Sitzplan, Turnieren, Kassenverwaltung und wei
 
 ### The Linux Command Line – German Translation
 
+<a href="https://github.com/marukitano/The_Linux_Command_Line_-_William_Shotts_German_translation_by_maru">
+  <img src="https://raw.githubusercontent.com/marukitano/The_Linux_Command_Line_-_William_Shotts_German_translation_by_maru/main/Images/Cover_swiss.png" width="220" alt="The Linux Command Line – Deutsche Übersetzung">
+</a>
+
 Deutsche Übersetzung von William Shotts' *The Linux Command Line*, gepflegt von [marukitano](https://github.com/marukitano).
 
 🌐 **Webversion:** [The Linux Command Line – Deutsche Übersetzung](https://marukitano.github.io/The_Linux_Command_Line_-_William_Shotts_German_translation_by_maru/)  
